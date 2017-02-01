@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ಎಂಥ ಸಾವ್ ಮರ್ರೆ"
-date:  2017-02-03
+date:  2017-02-01
 author: Deepak Basrur
 categories: Story
 tags:	Acchakannada Articles Kannada giveaway
