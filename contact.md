@@ -5,13 +5,11 @@ permalink: /contact/
 ---
 
 <h1 class="headline">By Authors</h1>
-{% for group in site.posts  | sort: "author"  %}
-      <ul>
-   {% for page in group.items %}
-      <li>{{ page.author }}</li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+{% assign sorted-posts = {{ site.posts | sort: 'author' }} } 
+ {% for post in sorted-posts limit: 10 %}
+<li >{{post.title}}</li>
+ {% endfor %}
+
 
 
 <!--{% assign sorted-posts = site.posts  | group_by : “author” } 
