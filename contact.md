@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <h1 class="headline">By Authors</h1>
-{% for group in site.posts  | group_by: "author"  %}
+{% for group in site.posts  | sort: "author"  %}
       <ul>
    {% for page in group.items %}
       <li>{{ page.title }}</li>
