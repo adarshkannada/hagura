@@ -3,7 +3,7 @@
 layout: post
 title:  "ನಾವು ನಾವೇನೆ"
 date:   2016-12-14
-author: Deepak Basrur
+author: Deepak basrur
 categories: Mahabharatha
 tags:	AcchaKannada Articles Jeevana Kannada Life Manassu story Tatva Truth Ulidavaru Kandante Way
 cover:  "assets/naavu-naavene.jpeg"
