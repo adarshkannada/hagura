@@ -10,6 +10,6 @@ permalink: /contact/
 {% for group in items_grouped %}
 <h3>{{group.name}}</h3>
     {% for item in group.items %}
-        {{item.title}}
+        <a href="{{post.url | prepend: site.baseurl}}">{{item.title}}</a>
     {% endfor %}
 {% endfor %}
