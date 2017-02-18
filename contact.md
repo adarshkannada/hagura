@@ -11,7 +11,7 @@ permalink: /contact/
 
 {% assign sorted-posts = site.posts | where: "author","adarsha" %}
 {% for post in sorted-posts limit: 10 %}
-<li>{{post.author}}</li>
+<li>{{post.title}}</li>
 {% endfor %}
 
 <!-- {% assign sorted-posts = site.posts | where: "author","deepak basrur" %}
