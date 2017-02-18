@@ -3,7 +3,7 @@
 layout: post
 title: "ಕೊಟ್ಟಿದ್ದನ್ನ ಬಿಟ್ಟು ಬಿಡಬೇಕು"
 date: 2016-01-11
-author: Deepak Basrur
+author: Deepak basrur
 categories: Discussion
 tags:	Acchakannada Articles Kannada giveaway
 cover:  "assets/kottaddanna-bittu-bidabeku.jpg "
