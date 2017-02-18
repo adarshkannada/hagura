@@ -7,27 +7,12 @@ permalink: /contact/
 <h1 class="headline">By Authors</h1>
 <h1 class="headline">aaaa</h1>
 
+<p align ="center">pikachu</p>
 
-
-
-<!--{% assign sorted-posts = site.posts  | group_by : “author” } 
- {% for post in sorted-posts limit: 10 %}
-<li >{{post.title}}</li>
- {% endfor %}-->
- 
-<!-- {% for post in site.posts %}
-<h3><a href="{{post.url | prepend: site.baseurl}}">{{post.author}}</a></h3>
-{% endfor %} -->
-
-<!--{% assign sorted-posts = site.posts | where: "author","adarsha" %}
-{% for post in sorted-posts limit: 10 %}
-<li>{{post.title}}</li>
-{% endfor %}-->
-
-<!-- {% assign sorted-posts = site.posts | where: "author","deepak basrur" %}
-{% for post in sorted-posts limit: 10 %}
-<li>{{post.author}}</li>
-{% endfor %} -->
-
-
-
+{% assign items_grouped = site.posts | group_by: 'author'  %}
+{% for group in items_grouped %}
+<h3>{{group.name}}</h3>
+    {% for item in group.items %}
+        <p>{{item.title}}</p>
+    {% endfor %}
+{% endfor %}
