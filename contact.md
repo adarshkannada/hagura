@@ -19,3 +19,8 @@ permalink: /contact/
 <li>{{post.author}}</li>
 {% endfor %} -->
 
+{% assign sorted-posts = site.posts  } 
+ {% for post in sorted-posts limit: 10 %}
+<li orderBy : 'author' >{{post.title}}</li>
+ {% endfor %}
+
