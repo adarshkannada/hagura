@@ -5,6 +5,11 @@ permalink: /contact/
 ---
 
 <h1 class="headline">By Authors</h1>
+{% assign sorted-posts = site.posts  | group_by : “author” } 
+ {% for post in sorted-posts limit: 10 %}
+<li >{{post.title}}</li>
+ {% endfor %}
+ 
 <!-- {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.author}}</a></h3>
 {% endfor %} -->
@@ -19,8 +24,5 @@ permalink: /contact/
 <li>{{post.author}}</li>
 {% endfor %} -->
 
-{% assign sorted-posts = site.posts  | group_by : “author” } 
- {% for post in sorted-posts limit: 10 %}
-<li >{{post.title}}</li>
- {% endfor %}
+
 
