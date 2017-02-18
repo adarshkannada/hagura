@@ -3,7 +3,7 @@
 layout: post
 title:  "ಶ್ರೀ ಚೊಂಬೇಶ್ವರ ಕೃಪೆ"
 date:   2016-01-21
-author: Deepak Basrur
+author: Deepak basrur
 categories: Story
 tags:	Acchakannada Kannada story
 cover:  "assets/sri-chombeshwara-krupe.jpg"
