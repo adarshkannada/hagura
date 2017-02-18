@@ -3,7 +3,7 @@
 layout: post
 title: "ಎಂಥ ಸಾವ್ ಮಾರ್ರೆ"
 date: 2017-02-02
-author: Deepak Basrur
+author: Deepak basrur
 categories: Story
 tags:	Acchakannada Basruru Jaatre Festival Kannada Karavali Kundapura Karnataka Life 
 cover: "assets/entha-saav-maaree.jpg"
