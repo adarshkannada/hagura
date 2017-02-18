@@ -1,10 +1,8 @@
 ---
-title: Contact
+title: ByAuthors
 layout: post
 permalink: /contact/
 ---
-
-<h1 class="headline">By Authors</h1>
 
 {% assign items_grouped = site.posts | group_by: 'author'  %}
 {% for group in items_grouped %}
