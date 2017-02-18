@@ -8,7 +8,7 @@ permalink: /contact/
 {% for group in site.posts  | sort: "author"  %}
       <ul>
    {% for page in group.items %}
-      <li>{{ page.title }}</li>
+      <li>{{ page.author }}</li>
     {% endfor %}
   </ul>
 {% endfor %}
