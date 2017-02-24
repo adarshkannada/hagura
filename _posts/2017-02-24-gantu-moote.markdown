@@ -2,12 +2,12 @@
 
 layout: post
 title: "ಗಂಟು ಮೂಟೆ ಕಟ್ಟು ಗುರು"
-date: 2017-01-27
+date: 2017-02-27
 author: Deepak basrur
 categories: Poem
 tags:	Acchakannada Kannada Jeevana Life Kavana Poem
-cover: "assets/5-nimisha.jpg"
-description: a poem.
+cover: "assets/gantu-moote-acchakannada.jpg"
+description: ಒಳ್ಳೇದೋ ಕೆಟ್ಟದ್ದೋ ನಮ್ ದಾರಿಲಿ ನಾವು ನಡೆದ್ರೆ, ಕೊನೆ ಪಕ್ಷ ನಮ್ ಜೀವನಾನ ನಾವೇ ಹಾಳು ಮಾಡಿಕೊಂಡ್ವಿ ಎನ್ನೋ ಸಮಾಧಾನ ಆದರೂ ಇರುತ್ತೆ....
 
 ---
 
