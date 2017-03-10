@@ -6,7 +6,7 @@ date: 2017-03-10
 author: Archana Bavimane
 categories: Books
 tags:	Acchakannada Kannada pustaka book annana nenapu kuvempu tejasvi
-cover: "assets/gantu-moote-acchakannada.jpg"
+cover: "assets/vishwamanava-acchakannada.jpg"
 description: ಅಣ್ಣನ ನೆನಪು ಪುಸ್ತಕದಿಂದ ಆಯ್ದ ವಿಷಯಗಳು!
 ---
 
