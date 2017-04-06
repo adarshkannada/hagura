@@ -6,7 +6,7 @@ date:   2017-04-07
 author: Adarsha
 categories: Experience
 tags:	AcchaKannada Kannada anubhava experience udupi kundapura oota foodstyle brahamana
-cover:  "assets/pravara-acchakannada-poem.jpg"
+cover:  "assets/karavali-bhojana-acchakannada.jpg"
 
 ---
 
