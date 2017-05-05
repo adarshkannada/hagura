@@ -6,7 +6,7 @@ date: 2017-05-03
 author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Poem Love Tuntaata Poli Naugty
-cover: "assets/saniha-acchakannada.jpg"
+cover:
 description: ವಯಸ್ಸಿಗೆ ಬಂದವರ ಹಾಡು!
 
 ---
