@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "ಸುಖಾಂತ್ಯ"
+title: "ವೈವಾ"
 date: 2017-05-18
 author: Deepak basrur
 categories: Experience
