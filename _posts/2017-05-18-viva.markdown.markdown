@@ -6,7 +6,7 @@ date: 2017-05-18
 author: Deepak basrur
 categories: Experience
 tags:	AcchaKannada Kannada Life Truth College Friends Exam Viva Fun
-cover: "assets/sukhaantya-acchakannada.jpeg"
+cover: "assets/viva-acchakannada.jpg"
 description: ಜೀವನಕ್ಕೆ ಇರುವುದು ಒಂದೇ ಸುಖಾಂತ್ಯ!
 
 ---
