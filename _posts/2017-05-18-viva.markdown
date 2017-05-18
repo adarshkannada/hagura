@@ -7,7 +7,7 @@ author: Deepak basrur
 categories: Experience
 tags:	AcchaKannada Kannada Life Truth College Friends Exam Viva Fun
 cover: "assets/viva-acchakannada.jpg"
-description: ನಮ್ ಹೆಚ್ಚಿನ ವೈವದಲ್ಲಿ ಕೂತಿದ್ದು ಜೊತೆ
+description: ನನ್ನ ಕಾಲೇಜಿನ ದಿನಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಲ್ಯಾಬ್ ವೈವಾ ದಲ್ಲಿ ಕೂತಿದ್ದು ದೀಕ್ಷಿತಾ ನಾಯ್ಡು ಜೊತೆ.
 
 ---
 
