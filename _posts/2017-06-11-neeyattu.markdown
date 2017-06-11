@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "ನೀಯತ್ತು"
+title: "ನಿಯತ್ತು"
 date: 2017-06-11
 author: Adarsha
 categories: Experience
